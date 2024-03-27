@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/lee/workspace/ROS_WS/MAV2_ws/install/setup.sh

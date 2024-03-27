@@ -1,0 +1,8 @@
+prefix=/home/lee/workspace/ROS_WS/MAV2_ws/devel
+
+Name: MAV2
+Description: Description of MAV2
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,2 @@
+MAV2
+-DCMAKE_BUILD_TYPE=RelWithDebInfo -DCATKIN_DEVEL_PREFIX=/home/lee/workspace/ROS_WS/MAV2_ws/devel -DCMAKE_INSTALL_PREFIX=/home/lee/workspace/ROS_WS/MAV2_ws/install -G Unix Makefiles

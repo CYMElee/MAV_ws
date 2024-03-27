@@ -1,0 +1,8 @@
+prefix=/home/lee/workspace/ROS_WS/MAV3_ws/install
+
+Name: MAV3
+Description: Description of MAV3
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
